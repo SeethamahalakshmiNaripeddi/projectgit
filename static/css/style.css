@@ -1,0 +1,34 @@
+.calci{
+    float: left;
+    width: 50%;
+    background-color: antiquewhite;
+    margin: 5% 0% 0% 25%;
+
+}
+.calci h1{
+    text-align: center;
+    font-size: 40px;
+}
+.calci input,.calci select{
+    float: left;
+    width: 25%;
+    margin : 0% 0% 3% 5%;
+    padding: 0.5% 0% 0.5% 0%;
+    text-align: center;
+    font-size: 30px;
+}
+.calci button{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin: 0% 0% 3% 40%;
+    font-size: 30px;
+}
+.output{
+    float: left;
+    width: 45%;
+    margin: 5% 0% 0% 25%;
+    background-color: antiquewhite;
+    font-size: 30px;
+    text-align: center;
+}
